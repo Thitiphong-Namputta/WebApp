@@ -1,0 +1,21 @@
+#card-form {
+    background: rgb(34,213,215);
+    background: linear-gradient(0deg, rgba(34,213,215,1) 0%, rgba(13,127,205,1) 100%);
+}
+
+#floatlabel-username {
+    border: none;
+}
+
+#floatlabel-password {
+    border: none;
+}
+
+.signup-link {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.signup-link:hover {
+    color: tomato;
+}
